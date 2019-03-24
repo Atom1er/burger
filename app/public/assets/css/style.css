@@ -1,0 +1,125 @@
+#body{
+    background-color: rgba(0, 0, 0, 0.514);
+}
+
+.a-fav{
+    color: beige;
+}
+
+#main-contain{
+    background-color: khaki;
+}
+
+#burger-list{
+    background-color: #8F2831;
+}
+
+#favorite-list{
+    background-color: #8F2831;
+}
+
+#favorite-list{
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    background-color: rgba(228, 105, 57, 0.637);
+    border: black solid 2px;
+    border-radius: 25px;
+    color: beige;
+}
+
+#submit{
+    background-color: rgba(119, 76, 175, 0.822);
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 35px;
+}
+
+#left{
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    background-image: url('../images/side-burger.gif');
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+#right{
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    background-image: url('../images/side-burger.gif');
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+
+#footer-img{
+    background-image: url('../images/burger.gif');
+    background-repeat: repeat-x;
+    background-size: contain;
+    height: 50px;
+    width: 100%;
+}
+
+
+#new-burger{
+    background-color: rgba(119, 76, 175, 0.274);
+    border: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#favorite{
+    background-color: #8F2831;
+}
+
+#fresh-burger{
+    width: 85%;
+    padding: 15px;
+    margin: 15px;
+    background-color: rgba(228, 105, 57, 0.637);
+    border: black solid 2px;
+    border-radius: 25px;
+    color: beige;
+}
+#finished-burger{
+    width: 85%;
+    padding: 15px;
+    margin: 15px;
+    background-color: rgba(228, 105, 57, 0.637);
+    border: black solid 2px;
+    border-radius: 25px;
+    color: beige;
+}
+.button1 {
+    background-color: #4CAF50;
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button2 {
+    background-color: #008CBA;
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.button3 {
+    background-color: red;
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
